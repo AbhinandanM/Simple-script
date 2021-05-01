@@ -1,6 +1,6 @@
 # Simple Scripts
 ## Usage
-1. Copy the code from below and paste it inside a <filename>.py file and run the code.
+1. Copy the code from below and paste it inside a ```<filename>```.py file and run the code.
 ```
 # importing the necessary packages
 import time
@@ -87,4 +87,6 @@ if __name__ == '__main__':
     sys.stdout.write("Hello "+str(s)+"\n")
 
 ```
+OR
+
 2. Download the bot.py file as ZIPfile, unzip it and run it in the terminal.
